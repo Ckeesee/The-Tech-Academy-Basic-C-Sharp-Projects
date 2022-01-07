@@ -1,0 +1,13 @@
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\bin\Debug\netcoreapp3.1\ShippingQuotes.exe
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\bin\Debug\netcoreapp3.1\ShippingQuotes.deps.json
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\bin\Debug\netcoreapp3.1\ShippingQuotes.runtimeconfig.json
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\bin\Debug\netcoreapp3.1\ShippingQuotes.runtimeconfig.dev.json
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\bin\Debug\netcoreapp3.1\ShippingQuotes.dll
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\bin\Debug\netcoreapp3.1\ShippingQuotes.pdb
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\obj\Debug\netcoreapp3.1\ShippingQuotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\obj\Debug\netcoreapp3.1\ShippingQuotes.AssemblyInfoInputs.cache
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\obj\Debug\netcoreapp3.1\ShippingQuotes.AssemblyInfo.cs
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\obj\Debug\netcoreapp3.1\ShippingQuotes.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\obj\Debug\netcoreapp3.1\ShippingQuotes.dll
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\obj\Debug\netcoreapp3.1\ShippingQuotes.pdb
+C:\Users\Cody\source\repos\ShippingQuotes\ShippingQuotes\obj\Debug\netcoreapp3.1\ShippingQuotes.genruntimeconfig.cache
