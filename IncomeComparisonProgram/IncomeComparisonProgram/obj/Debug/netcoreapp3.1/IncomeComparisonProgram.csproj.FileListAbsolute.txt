@@ -1,0 +1,14 @@
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.deps.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.runtimeconfig.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.runtimeconfig.dev.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.csproj.AssemblyReference.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.AssemblyInfoInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.AssemblyInfo.cs
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.genruntimeconfig.cache
