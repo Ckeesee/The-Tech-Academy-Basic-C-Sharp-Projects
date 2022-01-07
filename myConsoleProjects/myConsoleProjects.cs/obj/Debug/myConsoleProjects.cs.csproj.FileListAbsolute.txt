@@ -1,0 +1,7 @@
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProjects\myConsoleProjects.cs\bin\Debug\myConsoleProjects.cs.exe.config
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProjects\myConsoleProjects.cs\bin\Debug\myConsoleProjects.cs.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProjects\myConsoleProjects.cs\bin\Debug\myConsoleProjects.cs.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProjects\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.csproj.AssemblyReference.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProjects\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.csproj.CoreCompileInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProjects\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProjects\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.pdb
