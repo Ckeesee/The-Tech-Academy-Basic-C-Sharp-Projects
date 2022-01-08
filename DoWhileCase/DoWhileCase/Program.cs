@@ -7,9 +7,29 @@ namespace DoWhileCase
         static void Main(string[] args)
         {
             Console.WriteLine("Pick a color of the rainbow!");
+            string colorPicked2 = Console.ReadLine();
+            
+            bool isGuessed2 = colorPicked2 == "yellow";
+
+
+            while (!isGuessed2)
+            {
+                if (colorPicked2 == "yellow")
+                {
+                    Console.WriteLine("You guessed green. You guessed correctly!");
+                    isGuessed2 = true;
+                }
+                else
+                {
+                    Console.WriteLine("You picked wrong! Pick a color of the rainbow!");
+                    colorPicked2 = Console.ReadLine();
+                }
+            }
+
+
+            Console.WriteLine("Pick a color of the rainbow!");
             string colorPicked = Console.ReadLine();
             bool isGuessed = colorPicked == "green";
-
             do
             {
                 switch (colorPicked)
