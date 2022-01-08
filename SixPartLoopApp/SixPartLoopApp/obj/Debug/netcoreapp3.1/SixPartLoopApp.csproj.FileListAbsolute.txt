@@ -1,0 +1,14 @@
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\bin\Debug\netcoreapp3.1\SixPartLoopApp.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\bin\Debug\netcoreapp3.1\SixPartLoopApp.deps.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\bin\Debug\netcoreapp3.1\SixPartLoopApp.runtimeconfig.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\bin\Debug\netcoreapp3.1\SixPartLoopApp.runtimeconfig.dev.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\bin\Debug\netcoreapp3.1\SixPartLoopApp.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\bin\Debug\netcoreapp3.1\SixPartLoopApp.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\obj\Debug\netcoreapp3.1\SixPartLoopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\obj\Debug\netcoreapp3.1\SixPartLoopApp.AssemblyInfoInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\obj\Debug\netcoreapp3.1\SixPartLoopApp.AssemblyInfo.cs
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\obj\Debug\netcoreapp3.1\SixPartLoopApp.csproj.CoreCompileInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\obj\Debug\netcoreapp3.1\SixPartLoopApp.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\obj\Debug\netcoreapp3.1\SixPartLoopApp.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\obj\Debug\netcoreapp3.1\SixPartLoopApp.genruntimeconfig.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\SixPartLoopApp\SixPartLoopApp\obj\Debug\netcoreapp3.1\SixPartLoopApp.csproj.AssemblyReference.cache
