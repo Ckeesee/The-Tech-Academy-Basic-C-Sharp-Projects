@@ -1,0 +1,14 @@
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\obj\Debug\netcoreapp3.1\DoWhileCase.csproj.AssemblyReference.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\obj\Debug\netcoreapp3.1\DoWhileCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\obj\Debug\netcoreapp3.1\DoWhileCase.AssemblyInfoInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\obj\Debug\netcoreapp3.1\DoWhileCase.AssemblyInfo.cs
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\obj\Debug\netcoreapp3.1\DoWhileCase.csproj.CoreCompileInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\bin\Debug\netcoreapp3.1\DoWhileCase.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\bin\Debug\netcoreapp3.1\DoWhileCase.deps.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\bin\Debug\netcoreapp3.1\DoWhileCase.runtimeconfig.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\bin\Debug\netcoreapp3.1\DoWhileCase.runtimeconfig.dev.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\bin\Debug\netcoreapp3.1\DoWhileCase.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\bin\Debug\netcoreapp3.1\DoWhileCase.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\obj\Debug\netcoreapp3.1\DoWhileCase.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\obj\Debug\netcoreapp3.1\DoWhileCase.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileCase\DoWhileCase\obj\Debug\netcoreapp3.1\DoWhileCase.genruntimeconfig.cache
