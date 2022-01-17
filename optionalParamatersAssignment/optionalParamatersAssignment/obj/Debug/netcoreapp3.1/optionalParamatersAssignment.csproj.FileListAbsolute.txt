@@ -1,0 +1,13 @@
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\obj\Debug\netcoreapp3.1\optionalParamatersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\obj\Debug\netcoreapp3.1\optionalParamatersAssignment.AssemblyInfoInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\obj\Debug\netcoreapp3.1\optionalParamatersAssignment.AssemblyInfo.cs
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\obj\Debug\netcoreapp3.1\optionalParamatersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\bin\Debug\netcoreapp3.1\optionalParamatersAssignment.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\bin\Debug\netcoreapp3.1\optionalParamatersAssignment.deps.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\bin\Debug\netcoreapp3.1\optionalParamatersAssignment.runtimeconfig.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\bin\Debug\netcoreapp3.1\optionalParamatersAssignment.runtimeconfig.dev.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\bin\Debug\netcoreapp3.1\optionalParamatersAssignment.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\bin\Debug\netcoreapp3.1\optionalParamatersAssignment.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\obj\Debug\netcoreapp3.1\optionalParamatersAssignment.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\obj\Debug\netcoreapp3.1\optionalParamatersAssignment.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionalParamatersAssignment\optionalParamatersAssignment\obj\Debug\netcoreapp3.1\optionalParamatersAssignment.genruntimeconfig.cache
