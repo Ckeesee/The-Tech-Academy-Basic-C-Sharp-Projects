@@ -30,23 +30,23 @@ namespace ClassSubmissionAssignment
     
 
     //overloaded methods
-        public static int Operation(decimal num)
+        public  int Operation(decimal num)
             {
                 int total = Convert.ToInt32(num) / 10;
                 return total;
             }
 
-            public static int Operation(string num)
-            {
-                int total = Convert.ToInt32(num) * 7;
-                return total;
-            }
+        public  int Operation(string num)
+        {
+            int total = Convert.ToInt32(num) * 7;
+            return total;
+        }
 
-            public static int Operation(int num)
-            {
-                int total = num + 32;
-                return total;
-            }
+        public  int Operation(int num)
+        {
+            int total = num + 32;
+            return total;
+        }
 
 
     }

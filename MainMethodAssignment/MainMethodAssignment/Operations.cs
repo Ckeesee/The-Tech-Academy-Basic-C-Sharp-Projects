@@ -6,19 +6,19 @@ namespace MainMethodAssignment
 {
     class Operations
     {
-        public static int math(decimal num)
+        public int math(decimal num)
         {
             int total = Convert.ToInt32(num) / 10;
             return total;
         }
 
-        public static int math(string num)
+        public int math(string num)
         {
             int total = Convert.ToInt32(num) * 7;
             return total;
         }
 
-        public static int math(int num)
+        public int math(int num)
         {
             int total = num + 32;
             return total;
