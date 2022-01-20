@@ -14,6 +14,12 @@ namespace AbstractClassAssign
             Employee temp = new Employee() { firstName = "Sample", lastName = "Student" };
             temp.SayName();
 
+            
+
+            IQuittable done = new Employee();
+
+            done.Quit();
+
             Console.ReadLine();
         }
     }

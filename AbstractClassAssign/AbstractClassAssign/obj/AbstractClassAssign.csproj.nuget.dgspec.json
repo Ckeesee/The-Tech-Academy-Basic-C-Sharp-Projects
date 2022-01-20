@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cody\\source\\repos\\AbstractClassAssign\\AbstractClassAssign\\AbstractClassAssign.csproj": {}
+    "C:\\Users\\Cody\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClassAssign\\AbstractClassAssign\\AbstractClassAssign.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cody\\source\\repos\\AbstractClassAssign\\AbstractClassAssign\\AbstractClassAssign.csproj": {
+    "C:\\Users\\Cody\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClassAssign\\AbstractClassAssign\\AbstractClassAssign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cody\\source\\repos\\AbstractClassAssign\\AbstractClassAssign\\AbstractClassAssign.csproj",
+        "projectUniqueName": "C:\\Users\\Cody\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClassAssign\\AbstractClassAssign\\AbstractClassAssign.csproj",
         "projectName": "AbstractClassAssign",
-        "projectPath": "C:\\Users\\Cody\\source\\repos\\AbstractClassAssign\\AbstractClassAssign\\AbstractClassAssign.csproj",
+        "projectPath": "C:\\Users\\Cody\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClassAssign\\AbstractClassAssign\\AbstractClassAssign.csproj",
         "packagesPath": "C:\\Users\\Cody\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cody\\source\\repos\\AbstractClassAssign\\AbstractClassAssign\\obj\\",
+        "outputPath": "C:\\Users\\Cody\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClassAssign\\AbstractClassAssign\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
