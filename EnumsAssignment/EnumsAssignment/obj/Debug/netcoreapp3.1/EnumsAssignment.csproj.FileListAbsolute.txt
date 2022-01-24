@@ -1,0 +1,14 @@
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.deps.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.runtimeconfig.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.runtimeconfig.dev.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.AssemblyInfo.cs
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.genruntimeconfig.cache
