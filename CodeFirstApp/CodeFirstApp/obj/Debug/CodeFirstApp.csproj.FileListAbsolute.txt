@@ -1,0 +1,13 @@
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.AssemblyReference.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\bin\Debug\CodeFirstApp.exe.config
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\bin\Debug\CodeFirstApp.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\bin\Debug\CodeFirstApp.pdb
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.CopyComplete
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.pdb
