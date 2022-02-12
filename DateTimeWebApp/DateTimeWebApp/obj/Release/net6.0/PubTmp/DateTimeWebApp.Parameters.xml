@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="DateTimeWebAppAssignment" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Cody\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DateTimeWebApp\\DateTimeWebApp\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

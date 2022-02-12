@@ -1,0 +1,7 @@
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeWebApp\DateTimeWebApp\obj\Release\net6.0\PubTmp\Out\DateTimeWebApp.exe
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeWebApp\DateTimeWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeWebApp\DateTimeWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeWebApp\DateTimeWebApp\obj\Release\net6.0\PubTmp\Out\DateTimeWebApp.dll
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeWebApp\DateTimeWebApp\obj\Release\net6.0\PubTmp\Out\DateTimeWebApp.deps.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeWebApp\DateTimeWebApp\obj\Release\net6.0\PubTmp\Out\DateTimeWebApp.runtimeconfig.json
+C:\Users\Cody\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeWebApp\DateTimeWebApp\obj\Release\net6.0\PubTmp\Out\DateTimeWebApp.pdb
