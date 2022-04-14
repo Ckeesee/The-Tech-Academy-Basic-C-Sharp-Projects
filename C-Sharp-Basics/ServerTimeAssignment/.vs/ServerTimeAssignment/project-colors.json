@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42a2d67d-5cd6-4c43-91e5-e906d16d8679": {
+      "ProjectGuid": "42a2d67d-5cd6-4c43-91e5-e906d16d8679",
+      "DisplayName": "ServerTimeAssignment",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

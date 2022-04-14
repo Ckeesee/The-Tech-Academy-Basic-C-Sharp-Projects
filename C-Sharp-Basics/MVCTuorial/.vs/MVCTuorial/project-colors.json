@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc5a0d85-4511-4670-bf56-3db8ff20e167": {
+      "ProjectGuid": "bc5a0d85-4511-4670-bf56-3db8ff20e167",
+      "DisplayName": "MVCTuorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
